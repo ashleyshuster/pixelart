@@ -1,0 +1,22 @@
+body { 
+    background-color: #00c3ff; 
+  } 
+  
+  .special { 
+    color: blue; 
+  } 
+  span {
+    background-color: yellow;
+}
+
+div{
+    background-color: white;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+
+em {
+    color: rebeccapurple;
+}
+    
